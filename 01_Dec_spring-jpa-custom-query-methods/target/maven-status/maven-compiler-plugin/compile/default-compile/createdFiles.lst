@@ -1,0 +1,5 @@
+com\dilip\config\StudentRepository.class
+com\dilip\config\SpringJpaDemo.class
+com\dilip\config\Student.class
+com\dilip\config\StudentOperations.class
+com\dilip\config\JPAConfiguration.class
